@@ -10,4 +10,4 @@ This script was included in the following publications:
 
 1. Golicz AA, Schliep M, Lee HT, Larkum AW, Dolferus R, Batley J, Chan CK, Sablok G, Ralph PJ, Edwards D. 2015. Genome-wide survey of the seagrass Zostera muelleri suggests modification of the ethylene signalling network. Journal of Experimental Botany 66, 1489-1498.
 
-2. Lee HT, Golicz AA, Bayer PE, Severn-Ellis A, Chan CK, Batley J, Kendrick GA, Edwards D. 2018. Genomic comparision of two independent seagrass lineages reveals habitat-driven convergent evolution. Journal of Experimental Botany (manuscript submitted)
+2. Lee HT, Golicz AA, Bayer PE, Severn-Ellis A, Chan CK, Batley J, Kendrick GA, Edwards D. 2018. Genomic comparison of two independent seagrass lineages reveals habitat-driven convergent evolution. Journal of Experimental Botany 69, 3689–3702, https://doi.org/10.1093/jxb/ery147
